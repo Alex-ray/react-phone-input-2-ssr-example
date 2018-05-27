@@ -13,4 +13,4 @@ different javascript environments. i.e Node.js in this case.
 From the error logs you can ses that the `self` is defined. A global variable that
 is not defined in Node.js.
 
-[http://grmrc.xyz/42322V3c3c2F/Image%202018-05-25%20at%202.22.20%20PM.png](http://grmrc.xyz/42322V3c3c2F/Image%202018-05-25%20at%202.22.20%20PM.png)
+![error](http://grmrc.xyz/42322V3c3c2F/Image%202018-05-25%20at%202.22.20%20PM.png)
